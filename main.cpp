@@ -26,7 +26,7 @@ int main() {
             cout << "L'area del rettangolo e\': " << rettangolo << endl;
             break;
         default:
-            cout << "Opzione non valida" << endl;
+            cout << "opzione non valida" << endl;
     }
 
     return 0;
