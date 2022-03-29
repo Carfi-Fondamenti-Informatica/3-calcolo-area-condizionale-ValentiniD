@@ -14,17 +14,14 @@ int main() {
 
     switch(opzione){
         case 0:
-            opzione=0;
             triangolo=(a*b)/2;
             cout << "L'area del triangolo e\': " << triangolo << endl;
             break;
         case 1:
-            opzione=1;
             quadrato=a*a;
             cout << "L'area del quadrato e\': " << quadrato << endl;
             break;
         case 2:
-            opzione=2;
             rettangolo=a*b;
             cout << "L'area del rettangolo e\': " << rettangolo << endl;
             break;
